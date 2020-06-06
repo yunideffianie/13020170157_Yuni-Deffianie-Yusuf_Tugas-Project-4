@@ -1,0 +1,486 @@
+<resources>
+    <string name="app_name">Tugas Project 4</string>
+
+    <string-array name="judul">
+        <item>WALL-E</item>
+        <item>Home</item>
+        <item>Resident Evil : Vendetta</item>
+        <item>Avengers : Infinity War</item>
+        <item>Inception</item>
+        <item>Captain Marvel</item>
+        <item>Avengers : Endgame</item>
+        <item>Avatar</item>
+        <item>Alita : Battle Angel</item>
+        <item>Zootopia</item>
+        <item>Aladdin</item>
+        <item>Parasite</item>
+        <item>Cars</item>
+        <item>Knives Out</item>
+        <item>Big Hero 6</item>
+        <item>Inside Out</item>
+        <item>Coco</item>
+        <item>Kingsman : The Golden Circle</item>
+        <item>Toy Story</item>
+        <item>Brave</item>
+    </string-array>
+
+    <array name="photo">
+        <item>@drawable/walle</item>
+        <item>@drawable/home</item>
+        <item>@drawable/residentevil</item>
+        <item>@drawable/avengersinfinitywar</item>
+        <item>@drawable/inception</item>
+        <item>@drawable/captainmarvel</item>
+        <item>@drawable/avengersendgame</item>
+        <item>@drawable/avatar</item>
+        <item>@drawable/alita</item>
+        <item>@drawable/zootopia</item>
+        <item>@drawable/aladdin</item>
+        <item>@drawable/parasite</item>
+        <item>@drawable/cars</item>
+        <item>@drawable/knivesout</item>
+        <item>@drawable/bighero</item>
+        <item>@drawable/insideout</item>
+        <item>@drawable/coco</item>
+        <item>@drawable/kingsman</item>
+        <item>@drawable/toystory</item>
+        <item>@drawable/brave</item>
+    </array>
+
+    <string-array name="desc">
+        <item>WALL·E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL·E thinks he\'s finally found a friend and stows away on the ship when it leaves.</item>
+        <item>When Earth is taken over by the overly-confident Boov, an alien race in search of a new place to call home, all humans are promptly relocated, while all Boov get busy reorganizing the planet. But when one resourceful girl, Tip, manages to avoid capture, she finds herself the accidental accomplice of a banished Boov named Oh. The two fugitives realize there\’s a lot more at stake than intergalactic relations as they embark on the road trip of a lifetime.</item>
+        <item>BSAA Chris Redfield enlists the help of government agent Leon S. Kennedy and Professor Rebecca Chambers from Alexander Institute of Biotechnology to stop a death merchant with a vengeance from spreading a deadly virus in New York.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: "inception", the implantation of another person\'s idea into a target\'s subconscious.</item>
+        <item>The story follows Carol Danvers as she becomes one of the universe\’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.</item>
+        <item>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos\' actions and restore order to the universe once and for all, no matter what consequences may be in store.</item>
+        <item>In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.</item>
+        <item>When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.</item>
+        <item>Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia\'s police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.</item>
+        <item>A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.</item>
+        <item>All unemployed, Ki-taek\'s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.</item>
+        <item>Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town\'s offbeat characters.</item>
+        <item>When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan\'s dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan\'s untimely death.</item>
+        <item>The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.</item>
+        <item>Growing up can be a bumpy road, and it\'s no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Riley\'s guiding emotions— Joy, Fear, Anger, Disgust and Sadness—live in Headquarters, the control centre inside Riley\'s mind, where they help advise her through everyday life and tries to keep things positive, but the emotions conflict on how best to navigate a new city, house and school.</item>
+        <item>Despite his family\’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel\'s family history.</item>
+        <item>When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.</item>
+        <item>Led by Woody, Andy\'s toys live happily in his room until Andy\'s birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy\'s heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.</item>
+        <item>Brave is set in the mystical Scottish Highlands, where Mérida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Mérida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Mérida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Mérida\’s quest — and serving as comic relief — are the kingdom\’s three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Animation, Family, Science Fiction</item>
+        <item>Fantasy, Comedy, Animation</item>
+        <item>Horror, Adventure, Mystery</item>
+        <item>Adventure, Action, Science Fiction</item>
+        <item>Action, Science Fiction, Adventure</item>
+        <item>Action, Science Fiction, Adventure</item>
+        <item>Action, Science Fiction, Adventure</item>
+        <item>Action, Adventure, Science Fiction</item>
+        <item>Action, Science Fiction, Adventure</item>
+        <item>Animation, Adventure, Comedy</item>
+        <item>Adventure, Fantasy, Romance</item>
+        <item>Comedy, Thriller, Drama</item>
+        <item>Animation, Adventure, Comdey</item>
+        <item>Mystery, Thriller, Comedy</item>
+        <item>Adventure, Family, Animation</item>
+        <item>Drama, Comedy, Animation</item>
+        <item>Animation, Family, Comedy</item>
+        <item>Action, Adventure, Comedy</item>
+        <item>Animation, Comedy, Family</item>
+        <item>Animation, Adventure, Comedy</item>
+    </string-array>
+
+    <string-array name="durasi">
+        <item>158 menit</item>
+        <item>94 menit</item>
+        <item>101 menit</item>
+        <item>149 menit</item>
+        <item>148 menit</item>
+        <item>124 menit</item>
+        <item>181 menit</item>
+        <item>162 menit</item>
+        <item>122 menit</item>
+        <item>109 menit</item>
+        <item>128 menit</item>
+        <item>133 menit</item>
+        <item>117 menit</item>
+        <item>131 menit</item>
+        <item>120 menit</item>
+        <item>95 menit</item>
+        <item>105 menit</item>
+        <item>141 menit</item>
+        <item>81 menit</item>
+        <item>93 menit</item>
+    </string-array>
+
+    <string-array name="sutradara">
+        <item>Andrew Stanton</item>
+        <item>Tim Johnson</item>
+        <item>Takanori Tsujimoto</item>
+        <item>Joe Russo, Anthony Russo</item>
+        <item>Christopher Nolan</item>
+        <item>Ryan Fleck, Anna Boden</item>
+        <item>Joe Russo, Anthony Russo</item>
+        <item>James Cameron</item>
+        <item>Robert Rodriguez</item>
+        <item>Byron Howard, Rich Moore</item>
+        <item>Guy Ritchie</item>
+        <item>Bong Joon Ho</item>
+        <item>John Lasseter</item>
+        <item>Rian Johnson</item>
+        <item>Robert L. Baird</item>
+        <item>Pete Docter</item>
+        <item>Lee Unkrich</item>
+        <item>Matther Vaughn</item>
+        <item>John Lasseter</item>
+        <item>Brenda Chapman, Mark Andrews</item>
+    </string-array>
+
+    <string-array name="tahun">
+        <item>2008</item>
+        <item>2015</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2010</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2009</item>
+        <item>2019</item>
+        <item>2016</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2006</item>
+        <item>2019</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2017</item>
+        <item>2017</item>
+        <item>1995</item>
+        <item>2012</item>
+    </string-array>
+
+    <string-array name="walle">
+        <item>Ben Burtt</item>
+        <item>Elissa Knight</item>
+        <item>Jeff Garlin</item>
+        <item>Fred Willard</item>
+        <item>John Ratzenberger</item>
+    </string-array>
+
+    <array name="castwalle">
+        <item>@drawable/walle_1ben</item>
+        <item>@drawable/walle_2elissa</item>
+        <item>@drawable/walle_3jeff</item>
+        <item>@drawable/walle_4fred</item>
+        <item>@drawable/walle_5john</item>
+    </array>
+
+    <string-array name="home">
+        <item>Jim Parsons</item>
+        <item>Rihanna</item>
+        <item>Steve Martin</item>
+        <item>Jennifer Lopez</item>
+        <item>Matt Jones</item>
+    </string-array>
+
+    <array name="casthome">
+        <item>@drawable/home_1jim</item>
+        <item>@drawable/home_2rihanna</item>
+        <item>@drawable/home_3steve</item>
+        <item>@drawable/home_4jennifer</item>
+        <item>@drawable/home_5matt</item>
+    </array>
+
+    <string-array name="residentevil">
+        <item>Kevin Dorman</item>
+        <item>Matthew Mercer</item>
+        <item>Erin Cahill</item>
+        <item>John DeMita</item>
+        <item>Fred Tatasciore</item>
+    </string-array>
+
+    <array name="castresidentevil">
+        <item>@drawable/res_1</item>
+        <item>@drawable/res_2</item>
+        <item>@drawable/res_3</item>
+        <item>@drawable/res_4</item>
+        <item>@drawable/res_5</item>
+    </array>
+
+    <string-array name="infinitywar">
+        <item>Robert Downey Jr.</item>
+        <item>Chris Hemsworth</item>
+        <item>Chris Evans</item>
+        <item>Scarlett Johansson</item>
+        <item>Benedict Cumberbatch</item>
+    </string-array>
+
+    <array name="castinfinitywar">
+        <item>@drawable/infinity1</item>
+        <item>@drawable/infinity2</item>
+        <item>@drawable/infinity3</item>
+        <item>@drawable/infinity4</item>
+        <item>@drawable/infinity5</item>
+    </array>
+
+    <string-array name="inception">
+        <item>Leonardo DiCaprio</item>
+        <item>Joseph Gordon Levitt</item>
+        <item>Ellen Page</item>
+        <item>Tom Hardy</item>
+        <item>Ken Watana</item>
+    </string-array>
+
+    <array name="castinception">
+        <item>@drawable/inception1</item>
+        <item>@drawable/inception2</item>
+        <item>@drawable/inception3</item>
+        <item>@drawable/inception4</item>
+        <item>@drawable/inception5</item>
+    </array>
+
+    <string-array name="marvel">
+        <item>Brie Larson</item>
+        <item>Samuel L. Jackson</item>
+        <item>Ben Mendelsohn</item>
+        <item>Jude Law</item>
+        <item>Annette Bening</item>
+    </string-array>
+
+    <array name="castmarvel">
+        <item>@drawable/cmarvel1</item>
+        <item>@drawable/cmarvel2</item>
+        <item>@drawable/cmarvel3</item>
+        <item>@drawable/cmarvel4</item>
+        <item>@drawable/cmarvel5</item>
+    </array>
+
+    <string-array name="endgame">
+        <item>Robert Downey Jr.</item>
+        <item>Chris Hemsworth</item>
+        <item>Chris Evans</item>
+        <item>Scarlett Johansson</item>
+        <item>Benedict Cumberbatch</item>
+    </string-array>
+
+    <array name="castendgame">
+        <item>@drawable/infinity1</item>
+        <item>@drawable/infinity2</item>
+        <item>@drawable/infinity3</item>
+        <item>@drawable/infinity4</item>
+        <item>@drawable/infinity5</item>
+    </array>
+
+    <string-array name="avatar">
+        <item>Sam Worthington</item>
+        <item>Zoe Saldana</item>
+        <item>Stephan Lang</item>
+        <item>Sigourney Weaver</item>
+        <item>Joel Davic Moore</item>
+    </string-array>
+
+
+    <array name="castavatar">
+        <item>@drawable/avatar1</item>
+        <item>@drawable/avatar2</item>
+        <item>@drawable/avatar3</item>
+        <item>@drawable/avatar4</item>
+        <item>@drawable/avatar5</item>
+    </array>
+
+    <string-array name="alita">
+        <item>Rosa Salazar</item>
+        <item>Christoph Waltz</item>
+        <item>Jennifer Connelly</item>
+        <item>Mahershala Ali</item>
+        <item>Ed Skrein</item>
+    </string-array>
+
+    <array name="castalita">
+        <item>@drawable/alita1</item>
+        <item>@drawable/alita2</item>
+        <item>@drawable/alita3</item>
+        <item>@drawable/alita4</item>
+        <item>@drawable/alita5</item>
+    </array>
+
+    <string-array name="zootopia">
+        <item>Ginnifer Goodwin</item>
+        <item>Jason Bateman</item>
+        <item>Idris Elba</item>
+        <item>Jenny Slate</item>
+        <item>Nate Torrence</item>
+    </string-array>
+
+    <array name="castzootopia">
+        <item>@drawable/zoo1</item>
+        <item>@drawable/zoo2</item>
+        <item>@drawable/zoo3</item>
+        <item>@drawable/zoo4</item>
+        <item>@drawable/zoo5</item>
+    </array>
+
+    <string-array name="aladdin">
+        <item>Will Smith</item>
+        <item>Mena Massoud</item>
+        <item>Naomi Scott</item>
+        <item>Marwan Kenzari</item>
+        <item>Navid Negahban</item>
+    </string-array>
+
+    <array name="castaladdin">
+        <item>@drawable/aladdin1</item>
+        <item>@drawable/aladdin2</item>
+        <item>@drawable/aladdin3</item>
+        <item>@drawable/aladdin4</item>
+        <item>@drawable/aladdin5</item>
+    </array>
+
+    <string-array name="parasite">
+        <item>Song Kang Ho</item>
+        <item>Lee Sun Kyun</item>
+        <item>Cho Yeo Jeong</item>
+        <item>Choi Woo Shik</item>
+        <item>Park So Dam</item>
+    </string-array>
+
+    <array name="castparasite">
+        <item>@drawable/parasite1</item>
+        <item>@drawable/parasite2</item>
+        <item>@drawable/parasite3</item>
+        <item>@drawable/parasite4</item>
+        <item>@drawable/parasite5</item>
+    </array>
+
+    <string-array name="cars">
+        <item>Owen Wilson</item>
+        <item>Paul Newman</item>
+        <item>Bonnie Hunt</item>
+        <item>Larry the Cable Guy</item>
+        <item>Tony Shalhoub</item>
+    </string-array>
+
+    <array name="castcars">
+        <item>@drawable/cars1</item>
+        <item>@drawable/cars2</item>
+        <item>@drawable/cars3</item>
+        <item>@drawable/cars4</item>
+        <item>@drawable/cars5</item>
+    </array>
+
+    <string-array name="knivesout">
+        <item>Daniel Craig</item>
+        <item>Chris Evans</item>
+        <item>Ana de Armas</item>
+        <item>Jamie Lee Curtis</item>
+        <item>Michael Shannon</item>
+    </string-array>
+
+    <array name="castknivesout">
+        <item>@drawable/knives1</item>
+        <item>@drawable/knives2</item>
+        <item>@drawable/knives3</item>
+        <item>@drawable/knives4</item>
+        <item>@drawable/knives5</item>
+    </array>
+
+    <string-array name="bighero">
+        <item>Scott Adsit</item>
+        <item>Ryan Potter</item>
+        <item>Daniel Henney</item>
+        <item>T. J. Miller</item>
+        <item>Jamie Chung</item>
+    </string-array>
+
+    <array name="castbighero">
+        <item>@drawable/big1</item>
+        <item>@drawable/big2</item>
+        <item>@drawable/big3</item>
+        <item>@drawable/big4</item>
+        <item>@drawable/big5</item>
+    </array>
+
+    <string-array name="insideout">
+        <item>Amy Poehler</item>
+        <item>Phyllis Smith</item>
+        <item>Richard Kind</item>
+        <item>Bill Hader</item>
+        <item>Lewis Black</item>
+    </string-array>
+
+    <array name="castinsideout">
+        <item>@drawable/inside1</item>
+        <item>@drawable/inside2</item>
+        <item>@drawable/inside3</item>
+        <item>@drawable/inside4</item>
+        <item>@drawable/inside5</item>
+    </array>
+
+    <string-array name="coco">
+        <item>Anthony Gonzales</item>
+        <item>Gael Garcia Bernal</item>
+        <item>Benjamin Bratt</item>
+        <item>Alanna Ubach</item>
+        <item>Renee Victor</item>
+    </string-array>
+
+    <array name="castcoco">
+        <item>@drawable/coco1</item>
+        <item>@drawable/coco2</item>
+        <item>@drawable/coco3</item>
+        <item>@drawable/coco4</item>
+        <item>@drawable/coco5</item>
+    </array>
+
+    <string-array name="kingsman">
+        <item>Taron Egerton</item>
+        <item>Colin Firth</item>
+        <item>Julianne Moore</item>
+        <item>Mark Strong</item>
+        <item>Jeff Bridges</item>
+    </string-array>
+
+    <array name="castkingsman">
+        <item>@drawable/kingsman1</item>
+        <item>@drawable/kingsman2</item>
+        <item>@drawable/kingsman3</item>
+        <item>@drawable/kingsman4</item>
+        <item>@drawable/kingsman5</item>
+    </array>
+
+    <string-array name="toystory">
+        <item>Tom Hanks</item>
+        <item>Tim Allen</item>
+        <item>Don Rickled</item>
+        <item>Jim Varney</item>
+        <item>Wallace Shawn</item>
+    </string-array>
+
+    <array name="casttoystory">
+        <item>@drawable/toy1</item>
+        <item>@drawable/toy2</item>
+        <item>@drawable/toy3</item>
+        <item>@drawable/toy4</item>
+        <item>@drawable/toy5</item>
+    </array>
+
+    <string-array name="brave">
+        <item>Kelly Macdonald</item>
+        <item>Billy Connolly</item>
+        <item>Emma Thompson</item>
+        <item>Julie Walters</item>
+        <item>Robbie Coltra</item>
+    </string-array>
+
+    <array name="castbrave">
+        <item>@drawable/brave1</item>
+        <item>@drawable/brave2</item>
+        <item>@drawable/brave3</item>
+        <item>@drawable/brave4</item>
+        <item>@drawable/brave5</item>
+    </array>
+
+</resources>
